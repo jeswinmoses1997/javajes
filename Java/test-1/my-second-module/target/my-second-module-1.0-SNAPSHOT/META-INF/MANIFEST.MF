@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 17
+Class-Path: my-first-module-1.0-SNAPSHOT.jar commons-lang3-3.13.0.jar lo
+ g4j-core-2.19.0.jar log4j-api-2.19.0.jar
+Main-Class: jes.learning.code.MySecondMain
+key: value
+mode: development
+url: 
+
